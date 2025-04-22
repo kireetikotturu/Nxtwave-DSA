@@ -18,6 +18,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Track my progress in DSA (300+ problems by Oct 2025).
 - Prepare for SDE interviews.
 
+## Progress
+| Topic              | Problems Solved | Last Updated |
+|--------------------|-----------------|--------------|
+| Arrays            | 50              | May 2025     |
+| Strings           | 40              | May 2025     |
+| Linked Lists      | 30              | Jun 2025     |
+
 ## Contact
 - GitHub: kireetikotturu
 - LinkedIn: chandra kireeti kotturu
