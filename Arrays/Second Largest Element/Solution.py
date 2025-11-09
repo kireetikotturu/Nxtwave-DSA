@@ -4,7 +4,6 @@ Approach: Single Pass (Track largest and second largest)
 Difficulty: Easy
 Time Complexity: O(n)
 Space Complexity: O(1)
-Companies: SAP
 """
 
 class Solution:
