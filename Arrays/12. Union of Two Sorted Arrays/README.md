@@ -51,6 +51,3 @@ Complete the provided `unionOfTwoSortedArrays` function that takes two arrays of
 
 ### Output Format
 - The output represents the set of union of input arrays.
-
-### LeetCode Link
-<a href="https://leetcode.com/problems/union-of-two-sorted-arrays/" target="_blank">LeetCode – Union of Two Sorted Arrays (Similar Problem)</a>
