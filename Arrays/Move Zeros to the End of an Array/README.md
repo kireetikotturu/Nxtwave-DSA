@@ -8,7 +8,7 @@
 ---
 
 You are given an array of integers `arr` of size `n`.  
-Your task is to move all the zeros in the array to the end **while preserving the relative order of the non-zero elements**.
+Your task is to move all the zeros in the array to the end while preserving the relative order of the non-zero elements.
 
 ### Example 1
 Input:  
@@ -47,4 +47,4 @@ Complete the provided `moveZerosToEnd` function that takes an array of integers 
 - The output represents the modified array after moving all the zeros in the array to the end.
 
 ### LeetCode Link
-[LeetCode – Move Zeroes (Problem 283)](https://leetcode.com/problems/move-zeroes/)
+<a href="https://leetcode.com/problems/move-zeroes/" target="_blank">LeetCode – Move Zeroes (Problem 283)</a>
