@@ -1,9 +1,9 @@
 """
 Problem: Sort Characters by Frequency
-Approach: Frequency Array + Sorting
+Approach: Fixed-size Frequency Array + Sorting
 Difficulty: Medium
 Time Complexity: O(N log N)
-Space Complexity: O(N)
+Auxiliary Space Complexity: O(1)
 """
 
 class Solution:
