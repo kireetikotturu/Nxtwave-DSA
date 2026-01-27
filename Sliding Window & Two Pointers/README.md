@@ -1,6 +1,6 @@
 # 🚀 Sliding Window & Two Pointers
 
-Efficiently solving array and string problems by reducing time complexity from  to .
+Efficiently solving array and string problems by reducing time complexity from   $O(n^2)$ to $O(n)$.
 
 ---
 
