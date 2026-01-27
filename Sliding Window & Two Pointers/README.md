@@ -1,8 +1,4 @@
-Got it! Python is actually the perfect language for these patterns because the syntax is so clean. Here is the updated, beginner-friendly version for your GitHub README, focusing strictly on **Python**.
-
----
-
-# 🚀 Mastering Sliding Window & Two Pointers (Python)
+# 🚀 Sliding Window & Two Pointers
 
 Efficiently solving array and string problems by reducing time complexity from  to .
 
